@@ -1,0 +1,2 @@
+1) Kas yra rikiavimo uzdavinys? Input-as: elementu rinkinys (aibe) ir funkcija, output-as: sarasas.
+2) Rikiavimo uzdavinio compexity? O(n^2)
